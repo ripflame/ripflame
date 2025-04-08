@@ -38,7 +38,7 @@
 ## 🗂 Featured Projects
 
 - ⚙️ [**Lab2PDF**](https://github.com/ripflame/Lab2PDF): Electron + Puppeteer app to streamline veterinary lab report formatting  
-- 🌐 **WordPress Sites**: Custom themes, SEO, animations (under NDA—ask me for screenshots)  
+- 🌐 **WordPress Sites**: Custom themes, SEO, animations (under NDA—ask me for samples)  
 - ✨ **Webflow Portfolio**: Interactive transitions, animated backgrounds, scroll-based effects
 
 ---
